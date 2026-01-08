@@ -4,17 +4,13 @@
 
 ## Description
 
-**FR :**  
+  
 Site web responsive en HTML et CSS présentant une structure classique avec un menu principal à sous-menus riches, un contenu principal en deux colonnes, et un pied de page simple.  
 Le design utilise des listes de navigation, des figures avec images et légendes, et une organisation sémantique avec header, main, aside et footer.
 
-**EN :**  
-Responsive HTML/CSS website featuring a classic structure with a main menu including rich dropdown submenus, a two-column main content layout, and a simple footer.  
-The design uses navigation lists, figures with images and captions, and semantic elements such as header, main, aside, and footer.
-
 ---
 
-## Fonctionnalités / Features
+## Fonctionnalités 
 
 - Menu principal avec sous-menus en grille / Main menu with grid-based dropdown submenus  
 - Images avec attributs alt pour accessibilité / Images with alt attributes for accessibility  
@@ -33,23 +29,25 @@ The design uses navigation lists, figures with images and captions, and semantic
 
 ---
 
-## Technologies utilisées / Technologies used
+## Technologies utilisées 
 
 - HTML5  
 - CSS3 (liés dans les fichiers `../css/default.css` et `css/style.css`)
 
 ---
 
-## Licence / License
+## Licence 
 
 Projet libre d’utilisation / Free to use project.
 
 ---
 
-## Auteur / Author
+## Auteur 
 
 Vanessa PAGANOTTO
 
 ---
 
-*Dernière mise à jour / Last update : Janvier 2026*
+## Licence
+
+Ce projet est sous licence MIT.
