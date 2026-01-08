@@ -39,12 +39,6 @@ Le design utilise des listes de navigation, des figures avec images et légendes
 
 ---
 
-## Licence 
-
-Projet libre d’utilisation / Free to use project.
-
----
-
 ## Auteur 
 
 Vanessa PAGANOTTO
