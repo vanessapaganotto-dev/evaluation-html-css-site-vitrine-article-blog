@@ -1,3 +1,6 @@
+🇬🇧 Version anglaise disponible : [README_EN.md](README_EN.md)
+
+
 # Le Globule - Site Web Responsive HTML/CSS
 
 ---
